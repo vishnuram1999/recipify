@@ -1,5 +1,5 @@
 Flask
-tensorflow==2.0.0
+tensorflow==2.9.3
 opencv-python
 requests
 json
